@@ -278,12 +278,10 @@ app.get('/api/messages', checkAuth, async (req, res) => {
     }
 });
 
-// Start the server (only if not running as a serverless function)
-if (process.env.NODE_ENV !== 'production') {
-    app.listen(PORT, () => {
-        console.log(`Server is running on http://localhost:${PORT}`);
-    });
-}
+// Start the server
+app.listen(PORT, () => {
+    console.log(`Server is running on port ${PORT}`);
+});
 
 module.exports = app;
 
