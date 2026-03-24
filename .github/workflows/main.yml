@@ -1,0 +1,4 @@
+git add .github package.json
+git commit -m "Add GitHub Actions CI pipeline"
+git push origin main
+
