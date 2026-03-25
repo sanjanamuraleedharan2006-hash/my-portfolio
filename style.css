@@ -30,7 +30,7 @@ html {
 body {
     font-family: 'Inter', sans-serif;
     background-color: var(#f0f0f0);
-    color: var(--text-main);
+    color: var(#f0f0f0);
     line-height: 1.6;
     overflow-x: hidden;
 }
