@@ -1,6 +1,6 @@
 :root {
     --primary-color: #0b192c;
-    /* Dark blue */
+    /* red*/
     --secondary-color: #1a365d;
     /* Lighter dark blue */
     --accent-color: #3b82f6;
@@ -29,7 +29,7 @@ html {
 
 body {
     font-family: 'Inter', sans-serif;
-    background-color: var(--bg-color);
+    background-color: var(red);
     color: var(--text-main);
     line-height: 1.6;
     overflow-x: hidden;
