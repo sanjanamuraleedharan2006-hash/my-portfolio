@@ -1,11 +1,11 @@
 :root {
-    --primary-color: #0b192c;
+    --primary-color: #f0f0f0;
     /* grey*/
     --secondary-color: #1a365d;
     /* Lighter dark blue */
     --accent-color: #3b82f6;
     /* Bright blue for accents */
-    --bg-color: #ffffff;
+    --bg-color: #f0f0f0;
     /* grey */
     --surface-color: #f0f0f0;
     /* grey*/
