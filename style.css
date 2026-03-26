@@ -10,7 +10,7 @@
     --surface-color: #FFFFFF;
     /* WHITE*/
     --text-main: #FFFFFF;
-    /* Dark text */
+    /* light text */
     --text-muted: #64748b;
     /* Muted text */
     --border-color: #e2e8f0;
@@ -62,7 +62,7 @@ body {
 .logo {
     font-size: 1.5rem;
     font-weight: 700;
-    color: var(--primary-color);
+    color: var(--primary color);
     letter-spacing: -0.5px;
 }
 
