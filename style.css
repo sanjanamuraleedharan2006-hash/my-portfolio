@@ -5,8 +5,8 @@
     /* Lighter dark blue */
     --accent-color: #3b82f6;
     /* Bright blue for accents */
-    --bg-color: #000047;
-    /* darkblue */
+    --bg-color: #FFFFFF;
+    /* white */
     --surface-color: #000047;
     /* dark blue*/
     --text-main: #0b192c;
@@ -29,7 +29,7 @@ html {
 
 body {
     font-family: 'Inter', sans-serif;
-    background-color: var(#000047);
+    background-color: var(#FFFFFF);
     color: var(#000047);
     line-height: 1.6;
     overflow-x: hidden;
