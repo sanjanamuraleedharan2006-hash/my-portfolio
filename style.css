@@ -1,14 +1,14 @@
 :root {
-    --primary-color: #f0f0f0;
-    /* grey*/
+    --primary-color: #000047;
+    /* darkblue*/
     --secondary-color: #1a365d;
     /* Lighter dark blue */
     --accent-color: #3b82f6;
     /* Bright blue for accents */
-    --bg-color: #f0f0f0;
-    /* grey */
-    --surface-color: #f0f0f0;
-    /* grey*/
+    --bg-color: #000047;
+    /* darkblue */
+    --surface-color: #000047;
+    /* dark blue*/
     --text-main: #0b192c;
     /* Dark text */
     --text-muted: #64748b;
@@ -29,8 +29,8 @@ html {
 
 body {
     font-family: 'Inter', sans-serif;
-    background-color: var(#f0f0f0);
-    color: var(#f0f0f0);
+    background-color: var(#000047);
+    color: var(#000047);
     line-height: 1.6;
     overflow-x: hidden;
 }
