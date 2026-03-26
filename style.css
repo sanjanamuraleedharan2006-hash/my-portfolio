@@ -9,8 +9,8 @@
     /* white */
     --surface-color: #FFFFFF;
     /* WHITE*/
-    --text-main: #FFFFFF;
-    /* light text */
+    --text-main: #000000;
+    /* dark text */
     --text-muted: #64748b;
     /* Muted text */
     --border-color: #e2e8f0;
